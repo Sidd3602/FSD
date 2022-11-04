@@ -1,7 +1,3 @@
-/*
-	@name desktop___1
-*/
-/* Only edit this if you know what you are doing! */
 body {
   margin: 0px;
   padding: 0px;
@@ -9,7 +5,6 @@ body {
   overflow-x: hidden;
 }
 
-/* Only edit this if you know what you are doing! */
 img {
   position: absolute;
   display: block;
@@ -18,7 +13,6 @@ img {
   padding: 0px;
 }
 
-/* Only edit this if you know what you are doing! */
 div {
   position: absolute;
 }
@@ -55,7 +49,7 @@ div {
   left: -2px;
   width: 1440px;
   height: 705px;
-  background: rgba(245.44, 245.44, 245.44, 1);
+  background: rgb(7, 123, 232);
 }
 
 #group_8 {
@@ -93,6 +87,19 @@ div {
   left: 18.25px;
   width: 133.5px;
   height: 32px;
+}
+
+#register {
+  top: 10px;
+  left: 41px;
+  width: 116px;
+  height: 45px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  color: #131E31;
 }
 
 #play_video {
@@ -170,7 +177,7 @@ div {
   font-size: 18px;
   font-weight: bold;
   text-align: left;
-  color: #545BE8;
+  color: #d9d9dc;
 }
 
 #group_6 {
@@ -231,7 +238,7 @@ div {
   -moz-border-radius: 16.5px / 16.5px;
   -webkit-border-radius: 16.5px / 16.5px;
   border-radius: 16.5px / 16.5px;
-  background: rgba(5, 143, 203, 1);
+  background: rgb(145, 223, 82);
 }
 
 #ellipse_6 {
@@ -244,7 +251,7 @@ div {
   -moz-border-radius: 39.5px / 39.5px;
   -webkit-border-radius: 39.5px / 39.5px;
   border-radius: 39.5px / 39.5px;
-  background: rgba(114, 83, 164, 1);
+  background: rgb(85, 57, 127);
 }
 
 #ellipse_7 {
@@ -270,7 +277,7 @@ div {
   -moz-border-radius: 39.5px / 39.5px;
   -webkit-border-radius: 39.5px / 39.5px;
   border-radius: 39.5px / 39.5px;
-  background: rgba(5, 143, 203, 1);
+  background: rgb(80, 239, 17);
 }
 
 #ellipse_5 {
@@ -310,7 +317,7 @@ div {
   -webkit-box-shadow: 0px 4px 20px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0px 4px 20px 1px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 4px 20px 1px rgba(0, 0, 0, 0.1);
-  background: rgb(255, 244, 207);
+  background: rgb(131, 227, 254);
 }
 
 #frame_1 {
@@ -775,50 +782,13 @@ div {
   background: rgba(240, 201, 50, 1);
 }
 
-#_46 {
-  top: -27px;
-  left: 4px;
-  width: 32px;
-  height: 32px;
-}
+
 
 #vector_ek9 {
   top: 6px;
   left: 11px;
   width: 9.49px;
   height: 18.99px;
-}
-
-#group_1952 {
-  top: 282px;
-  left: 1036px;
-  width: 40px;
-  height: 40px;
-}
-
-#ellipse_10_ek1 {
-  top: 0px;
-  left: 0px;
-  width: 40px;
-  height: 40px;
-  -ms-border-radius: 20px / 20px;
-  -o-border-radius: 20px / 20px;
-  -moz-border-radius: 20px / 20px;
-  -webkit-border-radius: 20px / 20px;
-  border-radius: 20px / 20px;
-  -ms-transform: rotate(180deg);
-  -o-transform: rotate(180deg);
-  -webkit-transform: rotate(180deg);
-  -moz-transform: rotate(180deg);
-  transform: rotate(180deg);
-  background: rgba(240, 201, 50, 1);
-}
-
-#_46_ek1 {
-  top: 45px;
-  left: 4px;
-  width: 32px;
-  height: 32px;
 }
 
 #vector_ek10 {
@@ -1709,21 +1679,6 @@ div {
   line-height: 30px;
   margin-top: -4px;
   height: 91px;
-  color: #646464;
-}
-
-#__ {
-  top: 0px;
-  left: 0px;
-  width: 30px;
-  height: 43px;
-  overflow: hidden;
-  font-family: Poppins;
-  font-size: 18px;
-  text-align: left;
-  line-height: 30px;
-  margin-top: -4px;
-  height: 61px;
   color: #646464;
 }
 
