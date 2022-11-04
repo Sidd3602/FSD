@@ -107,6 +107,23 @@ button{
     border-radius: 5px;
     cursor: pointer;
 }
+.home_button{
+    margin-top: 50px;
+    width: 10%;
+    background: linear-gradient(
+        to right,
+        #7b80dc,
+        #f09819
+    );
+    color: #080710;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-left: 15px;
+}
+
 .social{
   margin-top: 30px;
   display: flex;
@@ -119,9 +136,10 @@ button{
   background-color: rgba(255,255,255,0.27);
   color: #eaf0fb;
   text-align: center;
+  
 }
 .social div:hover{
-  background-color: rgba(255,255,255,0.47);
+  background-color: rgba(39, 5, 188, 0.47);
 }
 .social .fb{
   margin-left: 25px;
@@ -130,9 +148,10 @@ button{
   margin-right: 4px;
 }
 
-    </style>
+</style>
 </head>
 <body>
+    <button class = "home_button" onclick="location='home.html'">HOME</button>
     <div class="background">
         <div class="shape"></div>
         <div class="shape"></div>
